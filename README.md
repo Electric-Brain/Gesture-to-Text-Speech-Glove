@@ -132,7 +132,7 @@ Arduino Nano
 
 
 
-📄 Notes
+## 📄 Notes
 
 Use stable 5V supply; voltage dips cause DFPlayer issues.
 Keep speaker wires short to avoid noise.
@@ -140,7 +140,7 @@ Use heat shrink or tape to secure flex sensors on glove.
 Ensure all modules share common GND.
 
 
-CODE
+##CODE
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <SoftwareSerial.h>
