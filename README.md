@@ -140,7 +140,7 @@ Use heat shrink or tape to secure flex sensors on glove.
 Ensure all modules share common GND.
 
 
-##CODE
+## CODE
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <SoftwareSerial.h>
